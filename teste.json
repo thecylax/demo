@@ -1,0 +1,456 @@
+{
+"results": [
+{
+"_id": "5a3bcc6dc644cd1e436abc2e",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F00044579F9",
+"data": {
+"layout": "s32",
+"device_nid": null,
+"timestamp": 1513868222,
+"key": 5647,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"meter_serial_number": 1,
+"ts_reference": 1513868222,
+"ts_app": null
+}
+}
+},
+{
+"_id": "5a3bcb2ec644cd1e436abc2b",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "s1",
+"device_nid": null,
+"timestamp": 1513868044,
+"key": 29741,
+"args": {
+"relay": false,
+"input_phase_A": true,
+"input_phase_B": true,
+"input_phase_C": false,
+"output_phase_A": false,
+"output_phase_B": false,
+"output_phase_C": false,
+"external_phase": false,
+"seal": false,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bcb2fc644cd1e436abc2c",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "s2",
+"device_nid": null,
+"timestamp": 1513868044,
+"key": 29741,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"pulse_counter": 0,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bca15c644cd1e436abc2a",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F00044579F9",
+"data": {
+"layout": "s32",
+"device_nid": null,
+"timestamp": 1513867621,
+"key": 49677,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"meter_serial_number": 1,
+"ts_reference": 1513867621,
+"ts_app": null
+}
+}
+},
+{
+"_id": "5a3bcb3cc644cd1e436abc2d",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000CEA4FB5",
+"data": {
+"layout": "s43",
+"device_nid": null,
+"timestamp": 1513867448,
+"key": 42095,
+"args": {
+"relay": true,
+"input_phase_A": true,
+"input_phase_B": true,
+"input_phase_C": false,
+"output_phase_A": true,
+"output_phase_B": true,
+"output_phase_C": false,
+"external_seal": false,
+"LC2": true,
+"lid_seal": false,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc8d6c644cd1e436abc27",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "s1",
+"device_nid": null,
+"timestamp": 1513867444,
+"key": 41327,
+"args": {
+"relay": false,
+"input_phase_A": true,
+"input_phase_B": true,
+"input_phase_C": false,
+"output_phase_A": false,
+"output_phase_B": false,
+"output_phase_C": false,
+"external_phase": false,
+"seal": false,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc8d7c644cd1e436abc28",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "s2",
+"device_nid": null,
+"timestamp": 1513867444,
+"key": 41327,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"pulse_counter": 0,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc8d8c644cd1e436abc29",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F00044579F9",
+"data": {
+"layout": "d30",
+"device_nid": null,
+"timestamp": 1513867304,
+"key": 41180,
+"args": {
+"failed_actuations": 8,
+"reboots": 221,
+"incorrect_timestamp": 1,
+"failed_execute_commands": 338,
+"digital_measurement_failure": 0,
+"internal_temperature": 34,
+"ts_app": null
+}
+}
+},
+{
+"_id": "5a3bc7bdc644cd1e436abc24",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F00044579F9",
+"data": {
+"layout": "s32",
+"device_nid": null,
+"timestamp": 1513867021,
+"key": 50157,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"meter_serial_number": 1,
+"ts_reference": 1513867021,
+"ts_app": null
+}
+}
+},
+{
+"_id": "5a3bc67fc644cd1e436abc21",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "s1",
+"device_nid": null,
+"timestamp": 1513866844,
+"key": 24238,
+"args": {
+"relay": false,
+"input_phase_A": true,
+"input_phase_B": true,
+"input_phase_C": false,
+"output_phase_A": false,
+"output_phase_B": false,
+"output_phase_C": false,
+"external_phase": false,
+"seal": false,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc67fc644cd1e436abc22",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "d4",
+"device_nid": null,
+"timestamp": 1513866844,
+"key": 24238,
+"args": {
+"failed_connection": 0,
+"successful_messages": 0,
+"memory_free_space": 0,
+"failed_execute_commands": 0,
+"digital_measurement_failure": 0,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc67fc644cd1e436abc23",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "s2",
+"device_nid": null,
+"timestamp": 1513866844,
+"key": 24238,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"pulse_counter": 0,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc8c8c644cd1e436abc26",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000CEC9494",
+"data": {
+"layout": "s44",
+"device_nid": null,
+"timestamp": 1513866817,
+"key": 4077,
+"args": {
+"active_energy": 669,
+"inductive_reactive_energy": 15,
+"capacitive_reactive_energy": 54,
+"active_reverse_energy": null,
+"meter_serial_number": 513065,
+"ts_reference": 1513866817,
+"ts_app": null
+}
+}
+},
+{
+"_id": "5a3bc66cc644cd1e436abc1f",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F0004263F1E",
+"data": {
+"layout": "s1",
+"device_nid": null,
+"timestamp": 1513866816,
+"key": 53036,
+"args": {
+"relay": true,
+"input_phase_A": true,
+"input_phase_B": true,
+"input_phase_C": true,
+"output_phase_A": true,
+"output_phase_B": true,
+"output_phase_C": true,
+"external_phase": false,
+"seal": false,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc66cc644cd1e436abc20",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F0004263F1E",
+"data": {
+"layout": "s2",
+"device_nid": null,
+"timestamp": 1513866816,
+"key": 53036,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"pulse_counter": 0,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc8aac644cd1e436abc25",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000CEA4FB5",
+"data": {
+"layout": "s43",
+"device_nid": null,
+"timestamp": 1513866789,
+"key": 39002,
+"args": {
+"relay": true,
+"input_phase_A": true,
+"input_phase_B": true,
+"input_phase_C": false,
+"output_phase_A": true,
+"output_phase_B": true,
+"output_phase_C": false,
+"external_seal": false,
+"LC2": true,
+"lid_seal": false,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc565c644cd1e436abc1c",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F00044579F9",
+"data": {
+"layout": "s32",
+"device_nid": null,
+"timestamp": 1513866421,
+"key": 65197,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"meter_serial_number": 1,
+"ts_reference": 1513866421,
+"ts_app": null
+}
+}
+},
+{
+"_id": "5a3bc427c644cd1e436abc1a",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "s1",
+"device_nid": null,
+"timestamp": 1513866244,
+"key": 23694,
+"args": {
+"relay": false,
+"input_phase_A": true,
+"input_phase_B": true,
+"input_phase_C": false,
+"output_phase_A": false,
+"output_phase_B": false,
+"output_phase_C": false,
+"external_phase": false,
+"seal": false,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc427c644cd1e436abc1b",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000A8D8E53",
+"data": {
+"layout": "s2",
+"device_nid": null,
+"timestamp": 1513866244,
+"key": 23694,
+"args": {
+"active_energy": 2,
+"inductive_reactive_energy": 0,
+"capacitive_reactive_energy": 0,
+"pulse_counter": 0,
+"ts_app": 0
+}
+}
+},
+{
+"_id": "5a3bc64fc644cd1e436abc1e",
+"type": "notify",
+"protocol": "tcompactb",
+"route": "2014030000651",
+"device_id": "000D6F000CEA4FB5",
+"data": {
+"layout": "s43",
+"device_nid": null,
+"timestamp": 1513866186,
+"key": 40442,
+"args": {
+"relay": true,
+"input_phase_A": true,
+"input_phase_B": true,
+"input_phase_C": false,
+"output_phase_A": true,
+"output_phase_B": true,
+"output_phase_C": false,
+"external_seal": false,
+"LC2": true,
+"lid_seal": false,
+"ts_app": 0
+}
+}
+}
+]
+}
